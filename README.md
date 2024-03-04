@@ -28,10 +28,10 @@ This project is designed to analyze WhatsApp chat data to provide insights such 
 # Project Structure
 The project consists of the following files:
 
-app.py: Main Streamlit application file where the app logic resides.
-preprocessor.py: Module for preprocessing the WhatsApp chat data.
-helper.py: Module containing helper functions for data analysis and visualization.
-stop_hinglish.txt: File containing stop words for filtering out common words.
+1. app.py: Main Streamlit application file where the app logic resides.
+2. preprocessor.py: Module for preprocessing the WhatsApp chat data.
+3. helper.py: Module containing helper functions for data analysis and visualization.
+4. stop_hinglish.txt: File containing stop words for filtering out common words.
 
 # Technologies Used
 Python
