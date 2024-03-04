@@ -34,11 +34,11 @@ The project consists of the following files:
 4. stop_hinglish.txt: File containing stop words for filtering out common words.
 
 # Technologies Used
-Python
-Streamlit: For creating the interactive web app
-Pandas: For data manipulation and analysis
-Matplotlib & Seaborn: For data visualization
-urlextract: For extracting URLs from messages
+1. Python
+2. Streamlit: For creating the interactive web app
+3. Pandas: For data manipulation and analysis
+4. Matplotlib & Seaborn: For data visualization
+5. urlextract: For extracting URLs from messages
 
 ## How to Use
 
